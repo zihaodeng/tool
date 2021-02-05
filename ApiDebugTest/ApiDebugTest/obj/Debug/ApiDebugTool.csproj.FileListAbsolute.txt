@@ -1,0 +1,2 @@
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebugTest.Properties.Resources.resources
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebugTool.csproj.GenerateResource.Cache

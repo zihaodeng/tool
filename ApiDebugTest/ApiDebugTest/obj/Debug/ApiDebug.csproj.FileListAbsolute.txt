@@ -1,0 +1,8 @@
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebugTest.Properties.Resources.resources
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebug.csproj.GenerateResource.Cache
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\bin\Debug\ApiDebugTest.exe.config
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\bin\Debug\ApiDebugTest.exe
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\bin\Debug\ApiDebugTest.pdb
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebugTest.exe
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebugTest.pdb
+D:\10WorkSpace\ApiDebugTest\ApiDebugTest\obj\Debug\ApiDebug.ApiDebugTool.resources
